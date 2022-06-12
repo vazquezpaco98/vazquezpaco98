@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Francisco Vázquez.
+- Graduated in Computer Science and Mathematics from Universidad de Granada.
 - 👀 I’m interested in small projects to know how to organize personal ideas
 - 🌱 I’m currently learning spftware engineering in University
 - 💞️ I’m looking to collaborate on anyone who wants
